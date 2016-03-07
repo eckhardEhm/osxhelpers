@@ -2,8 +2,8 @@
 Helpers for handling development on osx
 
 ## vagrantDown
-Is a set of bash scripts fÃor osx ( Virtualbox only ! ) to find and halt all running vagrant machines.
-ThereÂ´s other Options posted on how to "kill" virtualbox instances, but halting them via vagrant makes sure your hosts file gets cleaned up as well.
+Is a set of bash scripts for osx ( Virtualbox only ! ) to find and halt all running vagrant machines.
+There are other ptions posted on how to "kill" virtualbox instances, but halting them via vagrant makes sure your hosts file gets cleaned up as well.
 I am a bash noob so feel free to post feedback on how to enhance this stuff.
 
 ### usage
